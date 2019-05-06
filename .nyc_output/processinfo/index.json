@@ -1,0 +1,1 @@
+{"processes":{"483603b4-2fb8-43d1-b236-3a3b5feffa82":{"parent":null,"children":["4b2747ac-b09e-4010-96fa-fa066480200d"]},"4b2747ac-b09e-4010-96fa-fa066480200d":{"parent":"483603b4-2fb8-43d1-b236-3a3b5feffa82","children":[]}},"files":{"D:\\Users\\Esthéfanie\\Desktop\\Projetos\\card-validator\\index.js":["4b2747ac-b09e-4010-96fa-fa066480200d"]},"externalIds":{}}
