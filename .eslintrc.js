@@ -37,6 +37,10 @@ module.exports = {
             'error',
             {'max': 0}
         ],
+        'eqeqeq': [
+            'error',
+            'always'
+        ],
         'camelcase': 'error',
         'keyword-spacing': 'error',
         'space-infix-ops': 'error',
@@ -50,6 +54,7 @@ module.exports = {
         'func-call-spacing': 'error',
         'no-floating-decimal': 'error',
         'object-property-newline': 'error',
-        'brace-style': 'error'
+        'brace-style': 'error',
+        'no-array-constructor': 'error'
     }
 };
