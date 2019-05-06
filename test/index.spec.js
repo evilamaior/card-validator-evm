@@ -28,7 +28,7 @@ describe('cardValidator()', () => {
     });
 
     it ('valid card', () => { 
-        expect(validator.cardValidator('5404594866998688')).to.equal(true);
+        expect(validator.cardValidator('4556155664231703')).to.equal(true);
     });
 
 })
