@@ -1,5 +1,5 @@
 # Validador de Cartão de crédito
-**A biblioteca é utilizada para validar números de Cartões de Crédito** A atual versão não aceita letras, caracteres especiais, mais ou menos que 16 dígitos para verificar se o número do cartão é válido ou não.
+**A biblioteca é utilizada para validar números de Cartões de Crédito**. A atual versão não aceita letras, caracteres especiais, mais ou menos que 16 dígitos.
 
 ## Como instalar
 
@@ -10,7 +10,9 @@ Para instalar, digite o comando a seguir no terminal.
 
 Para utilizar a biblioteca, digite o comando a seguir no terminal.
 > const validator = require('card-validator-evm');
+> 
 > console.log(validator.cardValidator('4556155664231703'))
+> 
 > // returns "true"
 
 ## Roadmap
