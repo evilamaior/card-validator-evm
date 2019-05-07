@@ -4,7 +4,7 @@
 ## Como instalar
 
 Para instalar, digite o comando a seguir no terminal.
-> $  npm card-validator-evm
+> $  npm install card-validator-evm
 
 ## Como utilizar
 
