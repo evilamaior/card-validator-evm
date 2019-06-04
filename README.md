@@ -9,6 +9,8 @@ Para instalar, digite o comando a seguir no terminal.
 ## Como utilizar
 
 Para utilizar a biblioteca, digite o comando a seguir no terminal.
+>node
+>
 > const validator = require('card-validator-evm');
 > 
 > console.log(validator.cardValidator('4556155664231703'))
