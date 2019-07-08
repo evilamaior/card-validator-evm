@@ -26,4 +26,4 @@ Versão 2.0.0 (sem previsão, aceita-se contribuições)
 Versão 1.0.0
 - funcionalidades: verifica se número do cartão de crédito é válido. Não aceita letras ou caracteres especiais. Não aceita dígitos iguais. Também não aceita cartões com mais ou menos que 16 dígitos.
 
-![card-validator](card-validator.png)
+![card-validator](card.png)
